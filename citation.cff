@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rout"
+  given-names: "Abhijit"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Ray"
+  given-names: "Ayushman"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Gupta"
+  given-names: "Chandrakant"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Raj"
+  given-names: "Atish"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "YOLO-BrainMRI-Dataset"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-07-16
+url: "https://github.com/oyeabhijit/YOLO-BrainMRI-Dataset"
